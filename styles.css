@@ -1,0 +1,10 @@
+.mat-card {
+    border-radius: 32px;
+    margin: 10px 10px;
+    border-color: rgb(0, 0, 0);
+}
+
+#profile-background img {
+    width: 100%;
+    border-radius: 32px;
+}
